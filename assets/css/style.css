@@ -28,7 +28,7 @@
   --section-space-mobile: 70px;
   --section-title-space: 50px;
   --ripple-ani-duration: 5s;
-  --ot-body-background: #000916;
+  --ot-body-background: #1b2e4f;
 }
 html,
 body {
@@ -5924,7 +5924,7 @@ a.text-theme:hover,
   color: var(--theme-color);
 }
 .header-logo img{
-    height: 60px;
+    /* height: 60px; */
     width: 140px;
 }
 .about-logo img{
